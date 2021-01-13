@@ -12,7 +12,7 @@
       </header>
       <h4>
         想關注的行政區
-        <button type="button" class="btn btn-warning u-btn" @click="clear()">
+        <button type="button" class="btn btn-warning u-btn" @click="clearfav()">
           清除關注行政區
         </button>
       </h4>
